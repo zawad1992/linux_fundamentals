@@ -47,7 +47,7 @@ Zend OPcache v8.3.6
 Edit main config:
 
 ```
-/etc/nginx/nginx.conf
+sudo nano /etc/nginx/nginx.conf
 ```
 
 Recommended baseline configuration:
@@ -119,7 +119,7 @@ http {
 Edit pool configuration:
 
 ```
-/etc/php/8.3/fpm/pool.d/www.conf
+sudo nano /etc/php/8.3/fpm/pool.d/www.conf
 ```
 
 Recommended configuration:
@@ -155,7 +155,7 @@ For **small servers**, these values provide balanced performance.
 Edit:
 
 ```
-/etc/php/8.3/fpm/php.ini
+sudo nano /etc/php/8.3/fpm/php.ini
 ```
 
 Recommended settings:
