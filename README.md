@@ -1,2 +1,28 @@
-# linux_fundamentals
-Here you can find fundamentals &amp; basic for Linux
+# Linux Fundamentals
+
+A practical collection of Linux basics, server operations notes, and quick reference guides.
+
+## Repository Index
+
+This index is updated automatically when new files are pushed.
+
+<!-- AUTO-INDEX-START -->
+| File | Description |
+| --- | --- |
+| [CRON_MYSQL_BACKUP_SETUP.md](CRON_MYSQL_BACKUP_SETUP.md) | Cron-based MySQL backup setup guide. |
+| [MySQL_SECURE_BACKUP_SETUP_(Using .my.cnf).md](MySQL_SECURE_BACKUP_SETUP_%28Using%20.my.cnf%29.md) | Secure MySQL backup setup using .my.cnf. |
+| [RPM_VS_YUM_VS_DNF.md](RPM_VS_YUM_VS_DNF.md) | Comparison of RPM, YUM, and DNF. |
+| [WEBSERVER_TUNING.md](WEBSERVER_TUNING.md) | Web server tuning basics and optimization tips. |
+<!-- AUTO-INDEX-END -->
+
+## How Auto-Update Works
+
+When you push new files:
+
+1. A GitHub Actions workflow runs.
+2. The workflow regenerates the index section above.
+3. If there are changes, it commits the updated README automatically.
+
+## Contribution Note
+
+Add new documentation files normally. The README index will stay in sync after push.
