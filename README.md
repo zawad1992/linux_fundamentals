@@ -10,9 +10,9 @@ This index is updated automatically when new files are pushed.
 | File | Description |
 | --- | --- |
 | [CRON_MYSQL_BACKUP_SETUP.md](CRON_MYSQL_BACKUP_SETUP.md) | 📘 MySQL Automated Backup Setup (Cron + Singapore Timezone). |
-| [MYSQL-TUNING.md](MYSQL-TUNING.md) | MySQL 8 Tuning Guide (RAM-Based VPS Optimization). |
 | [MySQL_SECURE_BACKUP_SETUP_(Using .my.cnf).md](MySQL_SECURE_BACKUP_SETUP_%28Using%20.my.cnf%29.md) | 📘 MySQL Secure Backup Setup (Using `.my.cnf`). |
-| [PHP-FPM-TUNING.md](PHP-FPM-TUNING.md) | PHP-FPM Tuning Guide (RAM-Based VPS Optimization). |
+| [MYSQL_TUNING.md](MYSQL_TUNING.md) | MySQL 8 Tuning Guide (RAM-Based VPS Optimization). |
+| [PHP_FPM_TUNING.md](PHP_FPM_TUNING.md) | PHP-FPM Tuning Guide (RAM-Based VPS Optimization). |
 | [RPM_VS_YUM_VS_DNF.md](RPM_VS_YUM_VS_DNF.md) | RPM: The Package Management Foundation. |
 | [WEBSERVER_TUNING.md](WEBSERVER_TUNING.md) | Nginx + PHP-FPM Performance Tuning Guide (PHP 8.3). |
 <!-- AUTO-INDEX-END -->
