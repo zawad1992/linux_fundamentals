@@ -13,6 +13,7 @@ This index is updated automatically when new files are pushed.
 | [MySQL_SECURE_BACKUP_SETUP_(Using .my.cnf).md](MySQL_SECURE_BACKUP_SETUP_%28Using%20.my.cnf%29.md) | 📘 MySQL Secure Backup Setup (Using `.my.cnf`). |
 | [MYSQL_TUNING.md](MYSQL_TUNING.md) | MySQL 8 Tuning Guide (RAM-Based VPS Optimization). |
 | [PHP_FPM_TUNING.md](PHP_FPM_TUNING.md) | PHP-FPM Tuning Guide (RAM-Based VPS Optimization). |
+| [PORTFOLIO-SERVE-PERFORMANCE-INVESTIGATION-STORY.md](PORTFOLIO-SERVE-PERFORMANCE-INVESTIGATION-STORY.md) | Portfolio Server Investigation — Complete Chronological Story. |
 | [RPM_VS_YUM_VS_DNF.md](RPM_VS_YUM_VS_DNF.md) | RPM: The Package Management Foundation. |
 | [WEBSERVER_TUNING.md](WEBSERVER_TUNING.md) | Nginx + PHP-FPM Performance Tuning Guide (PHP 8.3). |
 <!-- AUTO-INDEX-END -->
