@@ -797,3 +797,21 @@ The server went from a situation where **disk space was being consumed by uncont
 **MySQL logging was controlled → Nginx logs were cleaned → crawler traffic was analyzed → unstable encrypted URLs were replaced with stable identifiers → Varnish caching was verified → Nginx request throttling was tuned.**
 
 The final architecture therefore protects the personal portfolio from continuous rapid requests while still allowing normal visitors and legitimate crawlers to access the portfolio.
+
+---
+
+## Related Documentation
+
+For detailed technical solutions and implementation guides, see the following documents:
+
+<a href="PORTFOLIO_SERVER_SOLUTIONS/01-MYSQL-LOG-GROWTH-MY-013360.md" target="_blank">1. MySQL Log Growth (MY-013360)</a>
+
+<a href="PORTFOLIO_SERVER_SOLUTIONS/02-NGINX-ACCESS-LOG-GROWTH.md" target="_blank">2. Nginx Access Log Growth</a>
+
+<a href="PORTFOLIO_SERVER_SOLUTIONS/03-EXCESSIVE-CRAWLER-TRAFFIC.md" target="_blank">3. Excessive Crawler Traffic</a>
+
+<a href="PORTFOLIO_SERVER_SOLUTIONS/04-UNSTABLE-PORTFOLIO-URLS.md" target="_blank">4. Unstable Portfolio URLs</a>
+
+<a href="PORTFOLIO_SERVER_SOLUTIONS/05-VARNISH-CACHE-VERIFICATION.md" target="_blank">5. Varnish Cache Verification</a>
+
+<a href="PORTFOLIO_SERVER_SOLUTIONS/06-NGINX-RATE-LIMITING-WITHOUT-NODELAY.md" target="_blank">6. Nginx Rate Limiting Without Nodelay</a>
